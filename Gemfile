@@ -37,3 +37,4 @@ gem 'bcrypt-ruby', '~> 3.0.1'
 # gem 'debugger'
 
 gem 'mongoid', '~> 3.0.9'
+
